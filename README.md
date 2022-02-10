@@ -1,2 +1,3 @@
 # TCPServer
-Test task from Telecom-engineering
+Test task
+in developing
